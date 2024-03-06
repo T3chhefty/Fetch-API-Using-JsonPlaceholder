@@ -1,0 +1,26 @@
+:root{
+    background: lavender;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+table{
+    width: 90%;
+    margin:3em auto;
+    border: 2px solid blue;
+}
+
+table  th {
+    border: 2px solid blue;
+}
+
+td{
+    color: blue;
+    border: 2px solid blue;
+    text-align: center;
+    padding: 5px;
+}
